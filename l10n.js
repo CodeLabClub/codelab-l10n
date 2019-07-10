@@ -210,6 +210,9 @@ export default {
         "blender.exec_and_get_result": "exec [DATA]"
     },
     "zh-cn": {
+      // https 验证
+      "codelab.verify": '验证 [hass_https]',
+
       // usbMicrobit
       "usbMicrobit.showIcon": "显示图像[ICON_PARAM]",
       "usbMicrobit.whenbuttonispressed": "当按下 [BUTTON_PARAM] 按钮",
