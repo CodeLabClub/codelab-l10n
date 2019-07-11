@@ -75,6 +75,23 @@ export default {
         'Scratch3Pose.getPoseScore': 'pose confidence',
         'Scratch3Pose.getResult': 'part [part] position [position]',
         'Scratch3Pose.getResultScore': 'part [part] confidence',
+        'Scratch3Pose.part_menu.nose': 'nose',
+        'Scratch3Pose.part_menu.leftEye': 'leftEye',
+        'Scratch3Pose.part_menu.rightEye': 'rightEye',
+        'Scratch3Pose.part_menu.leftEar': 'leftEar',
+        'Scratch3Pose.part_menu.rightEar': 'rightEar',
+        'Scratch3Pose.part_menu.leftShoulder': 'leftShoulder',
+        'Scratch3Pose.part_menu.rightShoulder': 'rightShoulder',
+        'Scratch3Pose.part_menu.leftElbow': 'leftElbow',
+        'Scratch3Pose.part_menu.rightElbow': 'rightElbow',
+        'Scratch3Pose.part_menu.leftWrist': 'leftWrist',
+        'Scratch3Pose.part_menu.rightWrist': 'rightWrist',
+        'Scratch3Pose.part_menu.leftHip': 'leftHip',
+        'Scratch3Pose.part_menu.rightHip': 'rightHip',
+        'Scratch3Pose.part_menu.leftKnee': 'leftKnee',
+        'Scratch3Pose.part_menu.rightKnee': 'rightKnee',
+        'Scratch3Pose.part_menu.leftAnkle': 'leftAnkle',
+        'Scratch3Pose.part_menu.rightAnkle': 'rightAnkle',
 
         //mpfshell
         'mpfshell.listenTopic': 'Listening to the [TOPIC] ',
@@ -299,6 +316,30 @@ export default {
       'cxtello.directionmenu.l': '左',
       'cxtello.directionmenu.r': '右',
       'cxtello.directionmenu.b': '后',
-      'cxtello.directionmenu.f': '前'
+      'cxtello.directionmenu.f': '前',
+
+
+      // posenet
+      'Scratch3Pose.isloaded': '已加载？',
+      'Scratch3Pose.getPoseScore': '置信度',
+      'Scratch3Pose.getResult': '部位 [part] 位置 [position]',
+      'Scratch3Pose.getResultScore': '部位 [part] 置信度',
+      'Scratch3Pose.part_menu.nose': '鼻子',
+      'Scratch3Pose.part_menu.leftEye': '左眼',
+      'Scratch3Pose.part_menu.rightEye': '右眼',
+      'Scratch3Pose.part_menu.leftEar': '左耳',
+      'Scratch3Pose.part_menu.rightEar': '右耳',
+      'Scratch3Pose.part_menu.leftShoulder': '左肩膀',
+      'Scratch3Pose.part_menu.rightShoulder': '右肩膀',
+      'Scratch3Pose.part_menu.leftElbow': '左肘',
+      'Scratch3Pose.part_menu.rightElbow': '右肘',
+      'Scratch3Pose.part_menu.leftWrist': '左手腕',
+      'Scratch3Pose.part_menu.rightWrist': '右手腕',
+      'Scratch3Pose.part_menu.leftHip': '左臀',
+      'Scratch3Pose.part_menu.rightHip': '右臀',
+      'Scratch3Pose.part_menu.leftKnee': '左膝盖',
+      'Scratch3Pose.part_menu.rightKnee': '右膝盖',
+      'Scratch3Pose.part_menu.leftAnkle': '左脚踝',
+      'Scratch3Pose.part_menu.rightAnkle': '右脚踝'
     }
   };
