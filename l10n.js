@@ -417,6 +417,15 @@ export default {
       'Scratch3Pose.part_menu.leftKnee': '左膝盖',
       'Scratch3Pose.part_menu.rightKnee': '右膝盖',
       'Scratch3Pose.part_menu.leftAnkle': '左脚踝',
-      'Scratch3Pose.part_menu.rightAnkle': '右脚踝'
+      'Scratch3Pose.part_menu.rightAnkle': '右脚踝',
+
+      // knn
+      "knn.isloaded": "已加载？",
+      "knn.train": "训练 [type] [STRING]",
+      "knn.reset": "重置 [STRING]",
+      "knn.samples": "样本 [STRING]",
+      "knn.getResult": "结果",
+      "knn.getConfidence": "置信度 [STRING]",
+      "knn.whenGetResult": "当获得 [STRING]"
     }
   };
