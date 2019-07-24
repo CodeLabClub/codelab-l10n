@@ -192,6 +192,7 @@ export default {
         "eim.sendTopicMessage": "broadcast [TOPIC] [DATA]",
         "eim.control_extension":  "[turn] [extension_name]",
         "eim.is_extension_turned_on": "is [extension_name] turned on?",
+        "eim.sendMessageAndWait":  "broadcast [content] and wait",
 
         //cozmo
         'cozmo.say': 'say [TEXT]',
@@ -390,6 +391,7 @@ export default {
       "eim.sendTopicMessage": "广播 [TOPIC] [DATA]",
       "eim.control_extension":  "[turn] [extension_name]",
       "eim.is_extension_turned_on": "[extension_name]已开启?",
+      "eim.sendMessageAndWait":  "广播 [content] 然后等待",
 
       // wecaht
       "wechat.whenMessageReceive": "当接收到[DATA]",
