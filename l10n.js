@@ -1,7 +1,7 @@
 export default {
     "en": {
-        // wecaht
-        "wechat.whenMessageReceive": "when I receive [DATA]",
+        // wechat
+        "wechat.whenMessageReceive": "when I receive [content]",
         "wechat.getComingMessage": "received message [userOrText]",
         "wechat.sendMessage": "broadcast [USER_TYPE] [USER] text[TEXT]",
 
@@ -393,8 +393,8 @@ export default {
       "eim.is_extension_turned_on": "[extension_name]已开启?",
       "eim.sendMessageAndWait":  "广播 [content] 然后等待",
 
-      // wecaht
-      "wechat.whenMessageReceive": "当接收到[DATA]",
+      // wechat
+      "wechat.whenMessageReceive": "当接收到[content]",
       "wechat.getComingMessage": "收到的消息[userOrText]",
       "wechat.sendMessage": "广播[USER_TYPE][USER]内容[TEXT]",
 
