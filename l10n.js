@@ -226,10 +226,10 @@ export default {
         'griffpatch.getScrollY': 'y scroll',
 
         //blender
-        "blender.whenMessageReceive": "when I receive [DATA]",
+        "blender.whenMessageReceive": "when I receive [content]",
         "blender.getComingMessage": "received message",
-        "blender.sendMessage": "exec [DATA]",
-        "blender.exec_and_get_result": "exec [DATA]"
+        "blender.sendMessage": "exec [content]",
+        "blender.exec_and_get_result": "exec [content]"
     },
     "zh-cn": {
       // https 验证
