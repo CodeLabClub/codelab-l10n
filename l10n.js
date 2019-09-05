@@ -68,6 +68,18 @@ const json = {
         "cxtello.actionMenu.getacceleration": "get acceleration",
         "cxtello.actionMenu.gettof": "get tof",
         "cxtello.actionMenu.getwifi": "get wifi",
+        "cxtello.cmdmenu.up": "up",
+        "cxtello.cmdmenu.down": "down",
+        "cxtello.cmdmenu.left": "left",
+        "cxtello.cmdmenu.right": "right",
+        "cxtello.cmdmenu.forward": "forward",
+        "cxtello.cmdmenu.back": "back",
+        "cxtello.cwmenu.cw": "cw",
+        "cxtello.cwmenu.ccw": "ccw",
+        "cxtello.directionmenu.l": "l",
+        "cxtello.directionmenu.r": "r",
+        "cxtello.directionmenu.b": "b",
+        "cxtello.directionmenu.f": "f",
 
         // posenet
         "Scratch3Pose.isloaded": "is loaded",
