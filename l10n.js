@@ -1,5 +1,7 @@
 const json = {
     "en": {
+        "codelab.verify": "verify [hass_https]",
+
         "wechat.whenMessageReceive": "when I receive [content]",
         "wechat.getComingMessage": "received message [userOrText]",
         "wechat.sendMessage": "broadcast [USER_TYPE] [USER] text[TEXT]",
@@ -15,6 +17,7 @@ const json = {
         "vector.getComingMessage": "received message",
 
         //usb microbit
+        "usbMicrobit.showIcon": "showIcon [ICON_PARAM]",
         "usbMicrobit.whenbuttonispressed": "When Button [BUTTON_PARAM] Is Pressed",
         "usbMicrobit.buttonispressed": "Button [BUTTON_PARAM] Is Pressed?",
         "usbMicrobit.say": "say [TEXT]",
@@ -23,10 +26,27 @@ const json = {
         "usbMicrobit.get_gesture": "gesture is[gesture]?",
         "usbMicrobit.get_TiltAngle": "tilt angle [tiltDirection]",
         "usbMicrobit.isTilted": "tilted [tiltDirectionAny]?",
+        "usbMicrobit.python_exec": "exec [CODE]",
         "usbMicrobit.get_analog_input": "Analog pin [ANALOG_PIN] value",
         "usbMicrobit.gesture.face_up": "face up",
         "usbMicrobit.gesture.face_down": "face down",
         "usbMicrobit.gesture.shake": "shake",
+        "usbMicrobit.iconMenu.happy": "happy",
+        "usbMicrobit.iconMenu.smile": "smile",
+        "usbMicrobit.iconMenu.sad": "sad",
+        "usbMicrobit.iconMenu.heart": "heart",
+        "usbMicrobit.iconMenu.heart_small": "heart_small",
+        "usbMicrobit.iconMenu.yes": "yes",
+        "usbMicrobit.iconMenu.confused": "confused",
+        "usbMicrobit.iconMenu.angry": "angry",
+        "usbMicrobit.iconMenu.asleep": "asleep",
+        "usbMicrobit.iconMenu.surprised": "surprised",
+        "usbMicrobit.iconMenu.silly": "silly",
+        "usbMicrobit.iconMenu.meh": "meh",
+        "usbMicrobit.iconMenu.fabulous": "fabulous",
+        "usbMicrobit.iconMenu.no": "no",
+
+
         "microbit.tiltDirectionMenu.front": "front",
         "microbit.tiltDirectionMenu.back": "back",
         "microbit.tiltDirectionMenu.left": "left",
@@ -116,6 +136,7 @@ const json = {
 
         // knn
         "knn.isloaded": "is loaded",
+        "knn.train": "Train label [type] [STRING]",
         "knn.trainA": "Train label 1 [STRING]",
         "knn.trainB": "Train label 2 [STRING]",
         "knn.trainC": "Train label 3 [STRING]",
@@ -255,6 +276,7 @@ const json = {
       "usbMicrobit.displaySymbol": "显示 [MATRIX]",
       "usbMicrobit.clearScreen": "清屏屏幕",
       "usbMicrobit.get_TiltAngle": "向[tiltDirection]倾斜",
+      "usbMicrobit.get_accelerometer": "Accelerometer [ACCELEROMETER_PARAM]",
       "usbMicrobit.isTilted": "向[tiltDirectionAny]倾斜",
       "usbMicrobit.get_analog_input": "读取模拟口 [ANALOG_PIN] 值",
       "usbMicrobit.get_gesture": "姿态是[gesture]",
