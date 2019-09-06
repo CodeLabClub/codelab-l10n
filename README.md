@@ -2,6 +2,9 @@
 
 [CodeLab Scratch3](https://scratch3v2.codelab.club)翻译文件。
 
+# 翻译
+l10n.xlsx汇总了需要翻译的内容。
+
 # tools
 
 ### json2xlsx.py.ipynb
