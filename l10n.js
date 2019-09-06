@@ -221,6 +221,8 @@ const json = {
     "eim.control_extension": "[turn] [extension_name]",
     "eim.is_extension_turned_on": "is [extension_name] turned on?",
     "eim.sendMessageAndWait": "broadcast [content] and wait",
+    "eim.sendTopicMessageAndWait": "broadcast [extension_id] [content] and wait",
+    
 
     //cozmo
     "cozmo.say": "say [TEXT]",
@@ -424,7 +426,8 @@ const json = {
     "eim.sendTopicMessage": "广播 [TOPIC] [DATA]",
     "eim.control_extension": "[turn] [extension_name]",
     "eim.is_extension_turned_on": "[extension_name]已开启?",
-    "eim.sendMessageAndWait": "广播 [content] 然后等待",
+    "eim.sendMessageAndWait": "广播[content]并等待",
+    "eim.sendTopicMessageAndWait": "广播[extension_id][content]并等待",
 
     // wechat
     "wechat.whenMessageReceive": "当接收到[content]",
