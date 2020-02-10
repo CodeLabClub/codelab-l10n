@@ -103,9 +103,9 @@ const json = {
 
         // posenet
         "Scratch3Pose.isloaded": "is loaded",
-        "Scratch3Pose.getPoseScore": "pose confidence",
-        "Scratch3Pose.getResult": "part [part] position [position]",
-        "Scratch3Pose.getResultScore": "part [part] confidence",
+        "Scratch3Pose.getPoseScore": "pose [pose] confidence",
+        "Scratch3Pose.getResult": "pose [pose] part [part] position [position]",
+        "Scratch3Pose.getResultScore": "pose [pose] part [part] confidence",
         "Scratch3Pose.part_menu.nose": "nose",
         "Scratch3Pose.part_menu.leftEye": "leftEye",
         "Scratch3Pose.part_menu.rightEye": "rightEye",
@@ -433,9 +433,9 @@ const json = {
 
       // posenet
       "Scratch3Pose.isloaded": "已加载？",
-      "Scratch3Pose.getPoseScore": "置信度",
-      "Scratch3Pose.getResult": "部位 [part] 位置 [position]",
-      "Scratch3Pose.getResultScore": "部位 [part] 置信度",
+      'Scratch3Pose.getPoseScore': '人体 [pose] 置信度',
+      'Scratch3Pose.getResult': '人体 [pose] 部位 [part] 位置 [position]',
+      'Scratch3Pose.getResultScore': '人体 [pose] 部位 [part] 置信度',
       "Scratch3Pose.part_menu.nose": "鼻子",
       "Scratch3Pose.part_menu.leftEye": "左眼",
       "Scratch3Pose.part_menu.rightEye": "右眼",
