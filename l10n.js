@@ -379,7 +379,7 @@ const json = {
     "cxtello.directionmenu.f": "前",
 
     // HomeAssistant
-    "cxhomeassistant.connect_to_hass": "连接到消息中心:[hass_uri]",
+    'cxhomeassistant.connect_to_hass': '连接到消息中心:[hass_uri] token [token]',
     "cxhomeassistant.hass_is_connected": "连接成功?",
     "cxhomeassistant.get_entity_id":
       "设备名称:[entity_name] 设备ID:[entity_id]",
